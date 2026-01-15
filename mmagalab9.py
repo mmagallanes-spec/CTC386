@@ -1,4 +1,4 @@
-#Mariio Magallanes
+#Mario Magallanes
 # class 9
 # GitHub test comment
 
@@ -15,7 +15,7 @@ def temperature_c_to_f():
 option = 0
 
 name = input("What is your name:")
-print("Greeetings", name, "Please select a choice from the following menu.")
+print("Greetings", name, "Please select a choice from the following menu.")
 
 print("***************")
 print("\U0001F602"*9)
